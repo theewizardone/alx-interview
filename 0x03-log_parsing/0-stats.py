@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 """
 Module that parses a log and prints stats to stdout
